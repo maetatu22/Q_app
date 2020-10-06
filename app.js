@@ -1,13 +1,13 @@
 const quiz = [
   {
-    question: 'ゲーム市場、最も売れたゲーム機は次のうちどれ？',
+    question: '最も使われているプログラミング言語は？',
     answers: [
-        "スーパーファミコン",
-      "プレーステーション２",
-      "ニンテンドースイッチ",
-      "ニンテンドーDS" 
+        "Java",
+      "JavaScript",
+      "Ruby",
+      "PHP" 
     ],
-    correct: 'ニンテンドーDS'
+    correct: 'Java'
   },{
     question: '3+3は？',
     answers: [

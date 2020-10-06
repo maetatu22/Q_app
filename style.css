@@ -1,0 +1,29 @@
+.alert-primary{
+  background-color: aquamarine;
+  font-size: 40px;
+}
+
+.btn{
+  font-size: 30px;
+  background-color: dodgerblue;
+  margin-top:  10px;
+  margin-bottom: 50px;
+  text-align: center;
+ border: none; 
+ 
+ display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: #668ad8;/*ボタン色*/
+  color: #FFF;
+  border-bottom: solid 4px #627295;
+  border-radius: 3px;
+}
+
+.content{
+  
+}
+
+.btn1{
+  margin-top: 100px;
+}
